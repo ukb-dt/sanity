@@ -1,3 +1,17 @@
+
+<!-- Standard YouTube embed (won't render on GitHub, but works elsewhere) -->
+<iframe
+  width="800"
+  height="450"
+  src="https://www.youtube.com/embed/EajIlG_OCvw"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+></iframe>
+
+
+
 # Week earlier
 
 That's the exact right question to be asking right now.
