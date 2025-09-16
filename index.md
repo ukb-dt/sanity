@@ -69,9 +69,9 @@ Love this — dense, gorgeous, and human. Nice work threading the thermodynamic,
 
 **Fill-ins you can customize:**
 
-* X = sleeping < 4h/night or > 14h/day
-* Y = not bathing or eating for 48+ hours
-* Z = talking to people who aren’t there / telling you of plans to harm self/others
+* [X](https://en.wikipedia.org/wiki/Mania) = sleeping < 4h/night or > 14h/day
+* [Y](https://en.wikipedia.org/wiki/Depression_(mood)) = not bathing or eating for 48+ hours
+* [Z](https://en.wikipedia.org/wiki/Schizophrenia) = talking to people who aren’t there / telling you of plans to harm self/others
 
 **Checklist to give friends/family so they can choose action:**
 
